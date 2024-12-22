@@ -5,3 +5,11 @@
 * {
   @apply bg-base font-serif text-text;
 }
+
+button {
+  @apply border-2 border-overlay2 bg-mantle p-1 hover:border-mauve;
+}
+
+a {
+  @apply text-mauve underline
+}
