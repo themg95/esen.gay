@@ -11,7 +11,7 @@
 
   if (browser) {
     checkAdBlock().then((value) => {
-      adblock = !value;
+      adblock = value;
     });
   }
 </script>
