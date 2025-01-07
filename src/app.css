@@ -11,5 +11,5 @@ button {
 }
 
 a {
-  @apply text-mauve underline
+  @apply text-mauve underline;
 }
